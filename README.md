@@ -1,7 +1,7 @@
 ![Image](images/rovers.jpg)
-# Bottom_Sheets_UI_Flutter :boom:
+#### 018 - Flutter Food App UI:
 
-Created Telegram User Interface in Flutter using the **widgets** like ListTile, ListView and different builders like the ListView Builder Seperator and also used the other widgets like CircleAvator, Text widgets for UI etc.
+In this project, I had used Animation and Cached Network to get the online images.
 
 
 ### Show some love :heart: and star the repo to support the project
@@ -10,15 +10,7 @@ If you had like the project pls hit the star :+1: icon.
 
 The Parent Repository of this project can be found on this [link](https://github.com/irahulcse/A-Complete-Guide-To-Flutter).
 
-# Live Working Project:
 
-[Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/)
-
-## Features Needed to Be Added:
-
-* [✅] Live Working Project
-* [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
-* [❌] Everything is static right now, no API integration done on it.
 
 ### Created with :heart:
 A a Pre-Final Year Computer Science Student, an experienced Software Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competitive Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
@@ -32,7 +24,7 @@ I am currently looking for Full Time/ Internship Offer for any Software Developm
 
 ### Screenshots and Working GIFS:
 
-<img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/>
+<img src="images/rovers.gif" height="300em"  width="300em"/> <img src="images/1.jpg" height="300em" width="300em"/> <img src="images/2.jpg" height="300em" width="300em"/> <img src="images/3.jpg" height="300em" width="300em"/> <img src="images/4.jpg" height="300em" width="300em"/> <img src="images/5.jpg" height="300em" width="300em"/>
 
 
  Sorry for the quality of the GIF :pray:
